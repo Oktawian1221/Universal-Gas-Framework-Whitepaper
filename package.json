@@ -1,0 +1,20 @@
+{
+  "name": "universal-gas-framework-whitepaper",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "":""
+  },
+  "devDependencies": {
+    "fswatch": "^1.17.1"
+  },
+  "author": "yash@tychiwallet.com",
+  "bugs": {
+    "url": "https://github.com/TychiWallet/Universal-Gas-Framework-Whitepaper/issues"
+  },
+  "homepage": "https://github.com/TychiWallet/Universal-Gas-Framework-Whitepaper#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TychiWallet/Universal-Gas-Framework-Whitepaper.git"
+  }
+}
